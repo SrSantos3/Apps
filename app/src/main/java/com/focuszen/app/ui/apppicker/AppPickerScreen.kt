@@ -1,5 +1,6 @@
 package com.focuszen.app.ui.apppicker
 
+import androidx.compose.ui.graphics.Color
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.graphics.drawable.Drawable
