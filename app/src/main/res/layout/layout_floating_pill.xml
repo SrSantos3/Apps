@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pill_root"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_floating_pill"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingStart="14dp"
+    android:paddingTop="8dp"
+    android:paddingEnd="8dp"
+    android:paddingBottom="8dp"
+    android:elevation="8dp">
+
+    <!-- Icono de Diana/Objetivo -->
+    <TextView
+        android:id="@+id/tv_target_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🎯"
+        android:textSize="15sp"
+        android:layout_marginEnd="8dp" />
+
+    <!-- Texto del Propósito Consciente -->
+    <TextView
+        android:id="@+id/tv_purpose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="210dp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:text="Mi objetivo"
+        android:textColor="#F8FAFC"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:layout_marginEnd="10dp" />
+
+    <!-- Botón de Objetivo Cumplido (Cerrar app y volver a Home) -->
+    <TextView
+        android:id="@+id/btn_done"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@drawable/bg_done_button"
+        android:gravity="center"
+        android:text="✓"
+        android:textColor="#0A0B0E"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
