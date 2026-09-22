@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">FocusZen</string>
-    <string name="accessibility_service_label">FocusZen - Detector de Concentración</string>
-    <string name="accessibility_service_description">Permite a FocusZen detectar cuándo se abren aplicaciones seleccionadas para mostrar la pantalla de fricción consciente de 10 segundos y proteger tu tiempo de enfoque.</string>
-</resources>
