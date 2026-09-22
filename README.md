@@ -13,11 +13,19 @@ Inspirada en el modelo contrastado de *one sec* y la disciplina de *StayFree/Opa
    - Presenta un **aro de respiración guiada** (Inhala / Exhala) con respuesta háptica y una pregunta reflexiva: *¿Realmente necesitas entrar ahora?*
    - Opción rápida: **"He cambiado de idea"** (vuelve al escritorio y suma a tu racha de autocontrol).
 
-2. **Sesiones de Uso Deliberadas**:
-   - Si tras los 10 segundos decides entrar, debes elegir conscientemente la duración de tu sesión: **5, 10, 15, 20 o 30 minutos**.
-   - Al agotarse el tiempo concedido, FocusZen **vuelve a intervenir automáticamente** en tu siguiente acceso.
+2. **Definición de Propósito Consciente (Versión 2)**:
+   - Tras la pausa de 10 segundos, la app te pregunta: *¿Cuál es tu objetivo para entrar?*
+   - Puedes escribir tu motivo personalizado o pulsar una etiqueta rápida (ej. *"💬 Responder mensaje"*, *"🔍 Buscar tutorial"*, *"💼 Trabajo urgente"*).
+   - Eliges el tiempo de sesión (5, 10, 15 o 20 minutos).
 
-3. **Límites Diarios Individuales y Prórrogas Penalizadas**:
+3. **Píldora Flotante Translúcida (Recordatorio Permanente en Pantalla)**:
+   - Al entrar a la app vigilada, aparece una **píldora flotante translúcida minimalista** con tu objetivo (`🎯 [Tu propósito]`).
+   - **Sin reloj visible**: para mantener el 100% de tu concentración sin generarte ansiedad.
+   - **Totalmente arrastrable**: puedes moverla con el dedo a cualquier zona de la pantalla para que no tape botones ni contenidos.
+   - **Botón `✓` de Objetivo Cumplido**: en cuanto terminas tu tarea, tocas el botón y la app te **expulsa inmediatamente al escritorio (Home)**, protegiéndote de quedarte mirando el feed.
+   - **Ocultación inteligente**: si sales al escritorio o abres otra aplicación, la píldora se oculta automáticamente y reaparece únicamente al regresar a la app vigilada.
+
+4. **Límites Diarios Individuales y Prórrogas Penalizadas**:
    - Cada aplicación cuenta con una cuota de tiempo máxima al día (ej. 30 min en Instagram).
    - Al superar el límite diario, la aplicación se bloquea.
    - Para solicitar una prórroga de +5 minutos, se impone una **espera obligatoria de 60 a 120 segundos sin tocar la pantalla** para eliminar por completo la recompensa inmediata del cerebro.
